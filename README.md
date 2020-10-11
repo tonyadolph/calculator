@@ -14,5 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
-https://dev.azure.com/tadolph/calculator/_apis/build/status/tonyadolph.calculator?branchName=master
 [![Build Status](https://dev.azure.com/tadolph/calculator/_apis/build/status/tonyadolph.calculator?branchName=master)](https://dev.azure.com/tadolph/calculator/_build/latest?definitionId=1&branchName=master)
